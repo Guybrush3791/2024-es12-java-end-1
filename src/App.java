@@ -25,6 +25,24 @@ public class App {
  * tenere traccia delle prenotazioni dei posti. Utilizza un array di booleani
  * per rappresentare i posti: true se il posto è prenotato, false altrimenti.
  * Implementa metodi per prenotare un posto, annullare la prenotazione e
+ * verificare se un o piu' posti
+ * }
+ * 
+ * /**
+ * TODO:
+ * 
+ * ES0: Creare un repository su GitHub con il seguente nome:
+ * 2024-06-26-java-end-1
+ * 
+ * Caricare tutti gli esercizi in un unico progetto sulla stessa repo
+ * 
+ * 
+ * ES1: Sistema di Prenotazioni
+ * 
+ * Crea una classe Prenotazione che possa essere utilizzata da un teatro per
+ * tenere traccia delle prenotazioni dei posti. Utilizza un array di booleani
+ * per rappresentare i posti: true se il posto è prenotato, false altrimenti.
+ * Implementa metodi per prenotare un posto, annullare la prenotazione e
  * verificare se un o piu' posti sono disponibili.
  * 
  * ---------------------------------------------------------------------------
@@ -35,6 +53,8 @@ public class App {
  * ArrayList). Aggiungi metodi per aggiungere voti, calcolare la media dei voti,
  * e stampare i dettagli dello studente. Implementa la gestione delle eccezioni
  * per evitare errori nell'inserimento dei voti.
+ * 
+ * sono disponibili.
  * 
  * ---------------------------------------------------------------------------
  * 
@@ -49,9 +69,13 @@ public class App {
  * ES4: Elenco Telefonico
  * 
  * Implementa una classe Contatto che rappresenti un contatto telefonico con
- * nome e numero di telefono (stringa). Crea una classe ElencoTelefonico che gestisca una
+ * nome e numero di telefono (stringa). Crea una classe ElencoTelefonico che
+ * gestisca una
  * lista di contatti. Includi metodi per aggiungere, rimuovere e cercare
  * contatti. Gestisci eventuali eccezioni relative all'inserimento di numeri di
  * telefono non validi.
+ * 
+ * ---------------------------------------------------------------------------
+ * 
  * 
  */
