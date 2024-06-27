@@ -41,13 +41,6 @@ public class Studente {
         return grades;
     }
 
-    public void setGrades(List<Integer> grades) throws IllegalArgumentException {
-
-        checkGrades(grades);
-
-        this.grades = grades;
-    }
-
     public void addGrade(int grade) throws IllegalArgumentException {
 
         checkGrade(grade);
